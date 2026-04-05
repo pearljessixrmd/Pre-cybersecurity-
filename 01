@@ -1,0 +1,10 @@
+# 🛠️ Web 
+**Crucial Rule:** Linux commands must be one single instruction.
+- **Wrong:** Pressing Enter after each option.
+- **Right:** `gobuster dir --url http://target.thm -w wordlist.txt`
+
+### 🐉 Login 
+**Key Learning:** Don't get lost in the logs!
+- `[ATTEMPT]` = Trying a password (not necessarily correct).
+- `valid password found` = **SUCCESS!**
+- **Action:** Always scroll to the bottom of the output to find the actual credentials.
