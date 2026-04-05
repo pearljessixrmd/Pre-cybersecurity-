@@ -19,7 +19,6 @@ Welcome to my cybersecurity portfolio! I am a Microbiology graduate transitionin
 
 - [x] **Pre Security** (TryHackMe) - *Completed!*
 - [ ] **Introduction to Cyber Security** (TryHackMe) - *In Progress* - [ ] **Google Cybersecurity Professional Certificate** - *In Progress*
-- [ ] **Target IELTS 7.0** (Expected by August 2026)
 
 ## 🛠️ Technical Skills in Progress
 - **Networking:** OSI Model, TCP/IP, DNS, HTTP/HTTPS
