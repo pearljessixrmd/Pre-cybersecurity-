@@ -12,7 +12,6 @@ Welcome to my cybersecurity portfolio! I am a Microbiology graduate transitionin
 - Gained hands-on experience in basic security concepts and attack/defense mindsets.
 
 *(Tip:[![TryHackMe Certificate](https://img.shields.io/badge/View-Certificate-green?style=for-the-badge&logo=tryhackme)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SSDZICHXAH.pdf) )*
-
 ---
 
 ## 📅 Current Learning Path & Goals
