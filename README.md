@@ -25,5 +25,3 @@ Welcome to my cybersecurity portfolio! I am a Microbiology graduate transitionin
 - **Linux:** Basic Command Line, File Permissions
 - **Web Security:** Understanding how web applications work and their vulnerabilities
 
----
-*“Consistency is key. Currently on a 28-day learning streak!”*
