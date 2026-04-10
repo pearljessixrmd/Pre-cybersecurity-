@@ -14,11 +14,6 @@ Welcome to my cybersecurity portfolio! I am a Microbiology graduate transitionin
 *(Tip:[![TryHackMe Certificate](https://img.shields.io/badge/View-Certificate-green?style=for-the-badge&logo=tryhackme)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SSDZICHXAH.pdf) )*
 ---
 
-## 📅 Current Learning Path & Goals
-
-- [x] **Pre Security** (TryHackMe) - *Completed!*
-- [ ] **Introduction to Cyber Security** (TryHackMe) - *In Progress* - [ ] **Google Cybersecurity Professional Certificate** - *In Progress*
-
 ## 🛠️ Technical Skills in Progress
 - **Networking:** OSI Model, TCP/IP, DNS, HTTP/HTTPS
 - **Linux:** Basic Command Line, File Permissions
